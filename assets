@@ -1,0 +1,20 @@
+assets/
+├── light-theme/
+│   ├── wallpaper.jpg         # Wallpaper for the light theme
+│   ├── icons/                # Folder containing light-themed icons
+│   │   ├── folder.png
+│   │   ├── file.png
+│   │   └── terminal.png
+│   └── fonts/                # Fonts specific to the light theme
+│       └── light-font.ttf
+├── neutral-theme/
+│   ├── wallpaper.jpg         # Wallpaper for the neutral theme
+│   ├── icons/                # Folder containing neutral-themed icons
+│   │   ├── folder.png
+│   │   ├── file.png
+│   │   └── terminal.png
+│   └── fonts/                # Fonts specific to the neutral theme
+│       └── neutral-font.ttf
+└── dark-theme/
+    ├── wallpaper.jpg         # Wallpaper for the dark theme
+    ├── icons/                # Folder containing dark-themed icons
